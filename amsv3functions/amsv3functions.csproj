@@ -5,8 +5,8 @@
   <ItemGroup>    
     <PackageReference Include="Microsoft.Azure.Management.Media" Version="1.0.0" />    
     <PackageReference Include="Microsoft.IdentityModel.Clients.ActiveDirectory" Version="3.19.4" />    
-    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="1.0.11" />    
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />    
+    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="4.6.0" />    
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />    
     <PackageReference Include="WindowsAzure.Storage" Version="9.1.1" />
   </ItemGroup>
   <ItemGroup>
